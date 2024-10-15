@@ -20,3 +20,23 @@
 
 - `docker stop <container_name>`  
   Stops a running container by specifying its name or ID.
+
+- `docker exec -it <Container_name> bash`  
+  Terminal will run interactively on your specific container <Container_name>.
+
+- `docker images`  
+  Gives information of all images available.
+  
+- `docker run -it <Image_name>`  
+  Takes an image from Docker.com .
+  
+- `docker run -it mailhog/mailhog`  
+  Fetching a mailhog(email) that can run inside the container.
+  
+- `docker run -it -p 1025:1025 mailhog`  
+  > **-p** refers to port-mapping.  
+  > first **1025** refers to our existing system port.  
+  > **:** used to join the map from the map.  
+  > second **1025** refers to the image's port.  
+  > **mailhog** referes to the email.  
+
