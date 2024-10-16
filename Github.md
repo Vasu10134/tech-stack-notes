@@ -1,6 +1,7 @@
-> Git & GitHub tracks the history of changes as people and teams collaborate on projects together.
-
-## Commands:
+# Github : 
+### Git & GitHub tracks the history of changes as people and teams collaborate on projects together.  
+  
+# Commands :  
 
 - `git version`: Gives the version of Git.
 - `git init`: Initializes a new Git repository.
