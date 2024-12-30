@@ -12,6 +12,8 @@
 3. Quich Sort
 4. Merge Sort
 5. Bubble Sort
+6. Searching in Rotated Sorted Array
+7. First Bad Version
 ---
 
 ### **Strings**
@@ -30,18 +32,26 @@
 5. Intersection Of Two Linked List
 ---
 
-### **Stack**
-1. 
-2. 
-3. 
-4. 
-5. 
+### **Tree**
+1. Maximum Depth of Binary Tree
+2. Validate Binary Search Tree
+3. Symmetric Tree
+4. Binary Tree Level Order Traversal
+5. Lowest Common Ancestor of a Binary Tree
 ---
 
-### **Queue**
-1. 
-2. 
-3. 
-4. 
-5. 
+### **Graph**
+1. Number of Islands
+2. Course Schedule
+3. Word Ladder
+4. Clone Graph
+5. Network Delay Time
+---
+
+### **Dynamic Programming**
+1. Fibonacci Number
+2. Climbing Stairs
+3. Longest Increasing Subsequence 
+4. Maximum Subarray Sum
+5. Coin Change
 ---
