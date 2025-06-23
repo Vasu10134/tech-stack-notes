@@ -8,7 +8,6 @@ It includes various technologies like:
 - Linux Basics
 - Linux Commands
 - Docker
-- Kubernetes
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Trending technologies and more!
