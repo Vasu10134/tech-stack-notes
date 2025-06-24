@@ -1,7 +1,6 @@
 # Notes Collection Repository
 
 This is a collection of my notes.
-
 It includes various technologies like:
 - Git
 - GitHub
@@ -9,5 +8,6 @@ It includes various technologies like:
 - Linux Commands
 - Docker
 - Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
+- JSON
+- XML
 - Trending technologies and more!
