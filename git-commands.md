@@ -221,4 +221,3 @@ node_modules/
 ## Reflog in Git
 - **Definition**: Reflog records updates to the tip of branches or HEAD in the repository.
 - **Use Case**: Used to recover lost commits or track reference updates, even after branch deletion.
-
