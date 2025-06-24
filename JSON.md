@@ -1,5 +1,5 @@
 # 📌 JSON (JavaScript Object Notation)
-
+ 
 ## What is JSON
 #### • Lightweight, text-based format to store & exchange data
 #### • Easy for humans to read & machines to parse
