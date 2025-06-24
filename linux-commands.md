@@ -12,7 +12,7 @@ Windows uses GUI where Linux uses both CLI & GUI.
 ---
 # Linux Commands
 - `pwd` : Gives Information of on what directory you are right now. (Parent)
-- `ls` : Gives what your current pwd directory contains. (Childrens)  
+- `ls` : Gives what your current pwd directory contains. (Children)  
   
 - `mv` : Move Command  
   <strong>Example : </strong> `mv txt1 folder/`
