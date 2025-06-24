@@ -39,4 +39,3 @@
   > **:** used to join the map from the map.  
   > second **1025** refers to the image's port.  
   > **mailhog** referes to the email.  
-
